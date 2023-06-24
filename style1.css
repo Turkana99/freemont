@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    float: left;
+    width: 100%;
+    margin-bottom: 35px;
+}
+
+.header h4 {
+    float: left;
+    width: 50%;
+    background-color: #469694;
+    padding: 20px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header .title2 {
+    text-align: right;
+    padding-right: 150px!important;
+}
+
+.header .title1 {
+    padding-left: 130px!important;
+}
+
+.section {
+    float: left;
+    width: 100%;
+}
+
+.section h1 {
+    color: #469694;
+    text-align: center;
+    font-size: 150px;
+    padding-bottom: 10px;
+}
+
+.section p {
+    text-align: center;
+    color: #5D5B5C;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.section img {
+    width: 70%;
+    margin-left: 230px;
+    margin-top: 30px;
+}
+
+.aside {
+    width: 100%;
+    float: left;
+    padding: 30px 230px;
+}
+
+.aside .text1 {
+    float: left;
+    width: 50%;
+}
+
+.text1 h2 {
+    color: #469694;
+    font-size: 30px;
+}
+
+.text1 p {
+    color: #5D5B5C;
+    font-weight: 900px;
+}
+
+.title3 {
+    padding-right: 25px;
+}
+
+.footer {
+    float: left;
+    clear: both;
+    background-color: #469694;
+    width: 70%;
+    height: 10px;
+    margin-left: 230px;
+    margin-bottom: 30px;
+}
